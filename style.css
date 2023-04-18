@@ -1,0 +1,12 @@
+ol li {
+    color: green;
+    font-size: 20px;
+}
+
+#middle-li {
+    border: 1px solid red;
+}
+
+.other-lis {
+    border: 1px solid blue;
+}
